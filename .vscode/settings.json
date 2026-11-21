@@ -1,5 +1,5 @@
 {
     "python.terminal.useEnvFile": true,
-    "workbench.editor.enablePreview": false,
+    // "workbench.editor.enablePreview": false,
     "python.terminal.shellIntegration.enabled": false
 }
